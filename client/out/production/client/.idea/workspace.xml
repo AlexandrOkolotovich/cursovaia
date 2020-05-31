@@ -69,6 +69,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1bK23Php216h1cJQDWaYTn8K32r" />
   <component name="ProjectReloadState">
@@ -89,7 +92,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -236,46 +239,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588877746653" />
-    <state x="473" y="155" key="FileChooserDialogImpl" timestamp="1590938278982">
+    <state x="473" y="155" key="FileChooserDialogImpl" timestamp="1590950710245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590938278982" />
+    <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590950710245" />
     <state x="651" y="307" width="258" height="210" key="Github.ShareDialog" timestamp="1588628628199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="651" y="307" width="258" height="210" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588628628199" />
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1590884364399">
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590884364399" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1590884364399">
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590884364399" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1590884364399">
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590884364399" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1590884364399">
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590884364399" />
-    <state width="1493" height="181" key="GridCell.Tab.1.bottom" timestamp="1590884364400">
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.1.bottom" timestamp="1590958864737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590884364400" />
-    <state width="1493" height="181" key="GridCell.Tab.1.center" timestamp="1590884364400">
+    <state width="1493" height="181" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590958864737" />
+    <state width="1493" height="181" key="GridCell.Tab.1.center" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590884364400" />
-    <state width="1493" height="181" key="GridCell.Tab.1.left" timestamp="1590884364399">
+    <state width="1493" height="181" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.1.left" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590884364399" />
-    <state width="1493" height="181" key="GridCell.Tab.1.right" timestamp="1590884364400">
+    <state width="1493" height="181" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
+    <state width="1493" height="181" key="GridCell.Tab.1.right" timestamp="1590958864736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590884364400" />
+    <state width="1493" height="181" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590958864736" />
     <state x="439" y="112" key="NewModule_or_Project.wizard" timestamp="1589503461301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -292,6 +295,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="282" key="classpath-attribute-editor/0.0.1536.824@0.0.1536.824" timestamp="1589501719876" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590960899733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590960899733" />
     <state x="209" y="34" key="new project wizard" timestamp="1589503250892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -343,6 +350,46 @@
           <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/AdminController.java</url>
           <line>393</line>
           <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/AdminController.java</url>
+          <line>422</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/AdminController.java</url>
+          <line>424</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/TaskController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/TaskController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/TaskController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/UserController.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/UserController.java</url>
+          <line>240</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/controllers/UserController.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/by/bsuir/client/sample/information/CollectionDetails.java</url>
